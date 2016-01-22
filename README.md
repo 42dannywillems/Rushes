@@ -27,3 +27,4 @@ Here some rushes. Some need to be done.
 - [Prolog](https://github.com/42dannywillems/rushes_prolog.git)
 - [LISP](https://github.com/42dannywillems/rushes_lisp.git)
 - [YASL](https://github.com/42dannywillems/rushes_yasl.git)
+- [Alcu](https://github.com/42dannywillems/rushes_alcu.git)

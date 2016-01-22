@@ -7,3 +7,6 @@
 [submodule "rushes_yasl"]
 	path = rushes_yasl
 	url = https://github.com/42dannywillems/rushes_yasl
+[submodule "rushes_alcu"]
+	path = rushes_alcu
+	url = https://github.com/42dannywillems/rushes_alcu
