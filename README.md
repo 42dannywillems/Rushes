@@ -29,3 +29,6 @@ Here some rushes. Some need to be done.
 - [YASL](https://github.com/42dannywillems/rushes_yasl.git)
 - [Alcu](https://github.com/42dannywillems/rushes_alcu.git)
 - [Arkanoid](https://github.com/42dannywillems/rushes_arkanoid.git)
+- [Wong kar wai](https://github.com/42dannywillems/rushes_wong.kar.wai.git)
+- [Mexican
+  Standoff](https://github.com/42dannywillems/rushes_mexican.standoff.git)
