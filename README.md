@@ -22,7 +22,7 @@ documentation).
 Rush list
 ---------
 
-Here some rushes. I didn't participate to all but I did it.
+Here some rushes. Some need to be done.
 
 - [Prolog](https://github.com/42dannywillems/rushes_prolog.git)
 - [LISP](https://github.com/42dannywillems/rushes_lisp.git)
