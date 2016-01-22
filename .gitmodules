@@ -16,3 +16,6 @@
 [submodule "rushes_mexican.standoff"]
 	path = rushes_mexican.standoff
 	url = https://github.com/42dannywillems/rushes_mexican.standoff
+[submodule "rushes_wong.kar.wai"]
+	path = rushes_wong.kar.wai
+	url = https://github.com/42dannywillems/rushes_wong.kar.wai
