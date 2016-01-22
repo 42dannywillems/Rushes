@@ -1,0 +1,6 @@
+[submodule "rushes_prolog"]
+	path = rushes_prolog
+	url = https://github.com/42dannywillems/rushes_prolog.git
+[submodule "rushes_lisp"]
+	path = rushes_lisp
+	url = https://github.com/42dannywillems/rushes_lisp
