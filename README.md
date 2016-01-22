@@ -28,3 +28,4 @@ Here some rushes. Some need to be done.
 - [LISP](https://github.com/42dannywillems/rushes_lisp.git)
 - [YASL](https://github.com/42dannywillems/rushes_yasl.git)
 - [Alcu](https://github.com/42dannywillems/rushes_alcu.git)
+- [Arkanoid](https://github.com/42dannywillems/rushes_arkanoid.git)

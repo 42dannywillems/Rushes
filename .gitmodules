@@ -10,3 +10,6 @@
 [submodule "rushes_alcu"]
 	path = rushes_alcu
 	url = https://github.com/42dannywillems/rushes_alcu
+[submodule "rushes_arkanoid"]
+	path = rushes_arkanoid
+	url = https://github.com/42dannywillems/rushes_arkanoid
