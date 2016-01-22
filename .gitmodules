@@ -4,3 +4,6 @@
 [submodule "rushes_lisp"]
 	path = rushes_lisp
 	url = https://github.com/42dannywillems/rushes_lisp
+[submodule "rushes_yasl"]
+	path = rushes_yasl
+	url = https://github.com/42dannywillems/rushes_yasl
