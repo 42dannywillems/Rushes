@@ -13,3 +13,6 @@
 [submodule "rushes_arkanoid"]
 	path = rushes_arkanoid
 	url = https://github.com/42dannywillems/rushes_arkanoid
+[submodule "rushes_mexican.standoff"]
+	path = rushes_mexican.standoff
+	url = https://github.com/42dannywillems/rushes_mexican.standoff
